@@ -15,3 +15,6 @@
   <img src="./magento-serie-banner.png">
   </a>
 </p>
+<p align="left">
+  <img width="200" src="./Adobe_Certified_Professional_Adobe_Commerce_Developer_badge.png">
+</p>
